@@ -1,1 +1,7 @@
+Index Charts
+Small Multiples
+Parallel Coordinates
+Choropleth/Graduated Symbol Maps
+Node-Link Diagrams (Circular)
+Force-Directed Layout
 
